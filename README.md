@@ -27,8 +27,8 @@ This repository contains a **Chat Room Application** built using advanced Java t
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/chat-room-app.git
-   cd chat-room-app
+   git clone https://github.com/abdullah-abdalgawwad/chatting-room-by-javafx
+   cd chatting-room-by-javafx
    ```
 
 2. **Set Up the Database**:
@@ -42,16 +42,6 @@ This repository contains a **Chat Room Application** built using advanced Java t
 
 4. **Test the Application**:
    - Start multiple instances of the client application to test real-time communication.
-
-## Folder Structure
-
-```
-chat-room-app/
-├── src/             # Source code
-├── database/       # SQL scripts for database setup
-├── assets/         # UI resources and assets
-├── README.md       # Project documentation
-```
 
 ## Contributing
 
