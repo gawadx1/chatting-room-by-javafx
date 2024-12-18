@@ -54,4 +54,3 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 Enjoy using the Chat Room Application! If you have any questions or issues, feel free to reach out.
-
