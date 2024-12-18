@@ -1,0 +1,21 @@
+ 
+CREATE DATABASE IF NOT EXISTS chatting_room_project;
+
+ 
+USE chatting_room_project;
+
+-- Create the 'users' table
+CREATE TABLE IF NOT EXISTS users (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    username VARCHAR(255) NOT NULL UNIQUE,
+    password VARCHAR(255) NOT NULL,
+    status VARCHAR(50) NOT NULL
+);
+ 
+CREATE TABLE IF NOT EXISTS chat_history (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    sender_username VARCHAR(255) NOT NULL,
+    message TEXT NOT NULL,
+    timestamp TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+   
+);
