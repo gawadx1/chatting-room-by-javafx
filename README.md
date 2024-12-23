@@ -27,7 +27,7 @@ This repository contains a **Chat Room Application** built using advanced Java t
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/abdullah-abdalgawwad/chatting-room-by-javafx.git
+   git clone https://github.com/gawadx1/chatting-room-by-javafx.git
    cd chatting-room-by-javafx
    ```
 
